@@ -32,4 +32,4 @@ jobs:
 
     #
     - name : ls 
-      run : ls target/*.java
+      run : ls -l target/
